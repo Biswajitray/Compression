@@ -2,7 +2,7 @@ package com.datacompress.main;
 
 /**
  * Hello world!
- *
+ * Will add some more logic to it
  */
 public class App 
 {
